@@ -1,3 +1,19 @@
+# 
+
+## developer notes
+
+
+@material-ui
+
+Had to run these two in order to get material to play nice with current react version, which is fucking new so who knows what that bullshit was about
+
+``` 
+ npm install @material-ui/core --force
+ npm install material-ui --force
+```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
